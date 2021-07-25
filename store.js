@@ -1,1 +1,2 @@
-console.log("here2")
+var removecartitembutton = document.getElementsByClassName('btn-danger')
+console.log(removecartitembutton)

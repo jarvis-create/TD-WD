@@ -1,2 +1,3 @@
 var removecartitembutton = document.getElementsByClassName('btn-danger')
-console.log(removecartitembutton)
+console.log(removecartitembutton) 
+for (var i )

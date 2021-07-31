@@ -61,7 +61,7 @@ background-color:green;
     /*font-family: Courgette;*/
     padding: 1.1em;
     font-family: "BOOTERFF";
-    color: gold ;
+    color: #FFFFFF ;
     font-weight: bold;}
 
 .artist-name-top{
@@ -85,12 +85,16 @@ background-color:green;
 .content-section{
     padding: .5em;
     margin-bottom: auto;
-    background-color: black;}
+    background-color: lightsalmon;}
+   
+    
 
+.storesection{
+    margin: 1em;
+    background-color: linen;
+}
 
-.content-section2{margin: 1em;}
-
-    .footer{
+.footer{
     background-color:grey;
     color: seashell;
     padding: .25em,o;
@@ -116,11 +120,11 @@ background-color:green;
 
   /* REMEMBER TO READ ABOUT THE FLEX ELEMENT  PAGE 145 CSS IN DEPTH*/
 
-  .container{
-      max-width: 900px;
-      margin: 0,auto;
-      padding: 0,1.5em;
-  }
+.container{
+    max-width: 900px;
+    margin: 0,auto;
+    padding: 0,1.5em;
+}
 
 .main-footer-container{
     display: flex;
